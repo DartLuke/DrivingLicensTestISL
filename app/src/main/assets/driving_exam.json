@@ -1,0 +1,26 @@
+{
+	"questions": [
+		{
+			"id": 1,
+			"question": "Favorite phone",
+			"questionAnswers": [
+				"iPhone 9",
+				"iPhone 1"
+			],
+			"categories" : ["A","B1"],
+			"correctAnswerId": 1,
+			"imageUrl": "549"
+		},
+		{
+			"id": 2,
+			"question": "Favorite phone",
+			"questionAnswers": [
+				"iPhone 9",
+				"iPhone 1"
+			],
+			"categories" : ["A","A1"],
+			"correctAnswerId": 0,
+			"imageUrl": "549"
+		}
+	]
+}
