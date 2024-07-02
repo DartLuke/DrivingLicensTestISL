@@ -1,5 +1,6 @@
 package com.danielpasser.drivinglicensetestisl.compose.questionlist
 
+import android.net.Uri
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
@@ -34,9 +35,12 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
+import com.bumptech.glide.integration.compose.ExperimentalGlideComposeApi
+import com.bumptech.glide.integration.compose.GlideImage
 import com.danielpasser.drivinglicensetestisl.R
 import com.danielpasser.drivinglicensetestisl.models.Question
 import com.danielpasser.drivinglicensetestisl.models.DriveLicenceCategoryEnum
@@ -88,7 +92,7 @@ fun QuestionsList(modifier: Modifier, viewModel: QuestionsListSViewModel) {
     }
 }
 
-@OptIn(ExperimentalLayoutApi::class)
+@OptIn(ExperimentalLayoutApi::class, ExperimentalGlideComposeApi::class)
 @Composable
 private fun Card(
     question: Question,
@@ -125,6 +129,12 @@ private fun Card(
                             Text(text = answer)
                         }
                     }
+                }
+                if (question.imageUrl != null) {
+                    GlideImage(
+                        model = Uri.parse("file:///android_asset/${question.imageUrl}"),
+                        contentDescription = "",
+                        contentScale = ContentScale.None, )
                 }
             }
         }
@@ -183,7 +193,7 @@ fun QuestionsListTopAppBar(modifier: Modifier, viewModel: QuestionsListSViewMode
                                     onCheckedChange = {
                                         viewModel.onSelectCategoryMenuCollapsed()
                                     })
-                                Text(text = category.name)
+                                Text(text = category.toString())
                             }
                         }, onClick = {
                             viewModel.onCategoryClicked(

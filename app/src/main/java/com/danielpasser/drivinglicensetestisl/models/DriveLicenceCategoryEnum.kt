@@ -12,4 +12,11 @@ enum class DriveLicenceCategoryEnum {
     D2,
     D3,
     E,
+    _1 {
+        override fun toString(): String {
+            return "1"
+        }
+    }
+
+
 }
