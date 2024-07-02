@@ -182,7 +182,7 @@ fun QuestionsListTopAppBar(modifier: Modifier, viewModel: QuestionsListSViewMode
                             viewModel.onDeselectAll()
                         })
                 }
-                DriveLicenceCategoryEnum.values().forEach { category ->
+                DriveLicenceCategoryEnum.entries.forEach { category ->
                     DropdownMenuItem(
                         text = {
                             Row(
