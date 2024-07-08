@@ -1157,7 +1157,6 @@
       ],
       "correctAnswerId": 3
     },
-
     {
       "id": 1527,
       "question": "1527. What is the maximum permitted height - above the road’s surface -for a loaded commercial vehicle with an all up weight of between 3,501 and 8,000 kg?",
@@ -1233,6 +1232,504 @@
       "imageUrl": "img0085.jpg"
     },
     {
+      "id": 1379,
+      "question": "1379. What is a “pedestrian crossing”:\n",
+      "questionAnswers": [
+        "A suspended bridge or a tunnel designated for roadway crossing by pedestrians.\n",
+        "Every place on the roadway in which pedestrians usually cross.\n",
+        "A place in which school children cross.\n",
+        "A roadway section that is designated, by marking or by traffic sign, to permit pedestrian to cross the road. .\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 3
+    },
+    {
+      "id": 573,
+      "question": "0573. When the following road sign is placed:\n",
+      "questionAnswers": [
+        "Only buses are permitted to stop.\n",
+        "Passenger loading is permitted on holidays only.\n",
+        "Only taxis are permitted to stop.\n",
+        "Only unloading of workers is permitted.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 2,
+      "imageUrl": "img0573.jpg"
+    },
+    {
+      "id": 576,
+      "question": "0576. What is the meaning of the following traffic sign?\n",
+      "questionAnswers": [
+        "Entry for bicycles only.\n",
+        "No entry for bicycles.\n",
+        "No entry for bicycles and motorcycles.\n",
+        "No entry for four-wheeled motor vehicles.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 1,
+      "imageUrl": "img0576.jpg"
+    },
+    {
+      "id": 1266,
+      "question": "1266. Is a public minibus weighing 3300kilos all up weight permitted to park within the limits of the following road sign?\n",
+      "questionAnswers": [
+        "Yes, but only on weekdays from 21:00 until 05:30.\n",
+        "No.\n",
+        "Only on weekends.\n",
+        "Yes.\n"
+      ],
+      "categories": [
+        "D"
+      ],
+      "correctAnswerId": 1,
+      "imageUrl": "img1266.jpg"
+    },
+    {
+      "id": 1685,
+      "question": "1685. Upon completion of the two year “new driver” period, a regular driver’s license will not be given to a “new driver” who was convicted of:\n",
+      "questionAnswers": [
+        "Driving above the maximum speed limit.\n",
+        "Not stopping next to a “danger” warning sign.\n",
+        "Driving a motor vehicle while having a temporary insurance policy.\n",
+        "Not placing a “new driver” sign on the vehicle’s rear windshield.\n"
+      ],
+      "categories": [
+        "C",
+        "A",
+        "B"
+      ],
+      "correctAnswerId": 0
+    },
+    {
+      "id": 305,
+      "question": "0305. Can a “blood alcohol test” by means of a breathalyzer device be considered admissible evidence in a court of law?",
+      "questionAnswers": [
+        "No, only a blood test is admissible evidence in a court of law.\n",
+        "No, only a saliva test is accepted as accurate evidence in a court of law.\n",
+        "Yes.\n",
+        "No, only an alcohol test which is performed in a hospital is admissible evidence.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 2
+    },
+    {
+      "id": 933,
+      "question": "0933. How are you required to conduct yourself in the following road section?\n",
+      "questionAnswers": [
+        "Drive in low gear, steep climb ahead.\n",
+        "Drive in high gear, to prevent engine overheating.\n",
+        "Slow down, drive in low gear and maintain the engine’s temperature.\n",
+        "Slow down and keep to the right of the roadway, due to the limited field of vision.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 3,
+      "imageUrl": "img0933.jpg"
+    },
+    {
+      "id": 1670,
+      "question": "1670. How can you know that the brake pads are worn out and needs to be replaced?",
+      "questionAnswers": [
+        "There is a mark on the brake pad that indicates that it is worn out.\n",
+        "Only after being checked at a licensing facility.\n",
+        "According to the cooling rate of the brakes after a strong braking.\n",
+        "You cannot know until the padding completely disappears.\n"
+      ],
+      "categories": [
+        "A"
+      ],
+      "correctAnswerId": 0
+    },
+    {
+      "id": 1071,
+      "question": "1071. Why is a driver required to adjust his sitting position before starting to drive?",
+      "questionAnswers": [
+        "To prevent unnecessary leg pains that are a result of prolonged sitting in the driver’s seat.\n",
+        "To have good control of the vehicle’s operation, instruments and field of vision.\n",
+        "Only pregnant women are required to adjust their sitting position.\n",
+        "To have easier access to the radio or cellular phone.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 1
+    },
+    {
+      "id": 95,
+      "question": "0095. What is a “vehicle non-use notice” (taking a vehicle off the road)?",
+      "questionAnswers": [
+        "A vehicle non-use notice given to the vehicle owner by a manager of an authorized garage, following the detection of a malfunction in the vehicle\n",
+        "A vehicle non-use notice given to the driver by a policeman, a car assessor or a driving examiner due to a malfunction of the vehicle or damage caused by an accident.\n",
+        "A vehicle non-use notice given to the vehicle owner by a driving examiner, following the detection of a malfunction in the vehicle\n",
+        "A vehicle non-use notice given to the driver by a policeman when the driver commits a traffic offence\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 1
+    },
+    {
+      "id": 525,
+      "question": "0525. What is the meaning of the following traffic sign?",
+      "questionAnswers": [
+        "No stopping or parking on the road-side where the sign is placed.\n",
+        "No stopping for vehicles on both sides of the road.\n",
+        "Stopping is permitted but parking is prohibited.\n",
+        "It is allowed to stop and park, except on Saturdays and holidays.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 0,
+      "imageUrl": "img0525"
+    },
+    {
+      "id": 872,
+      "question": "0872. How can a correct grip of the steering wheel help to control the vehicle and to keep it stable?\n",
+      "questionAnswers": [
+        "The way you grip the wheel is only important in sharp turns and curves, when the vehicle moves in high speed.\n",
+        "Correct wheel grip is only important in big and heavy vehicles such as trucks and buses.\n",
+        "In a new-model vehicle, the way we hold the steering wheel is important while driving in sharp curves.\n",
+        "A correct grip of the steering wheel allows precise turning of the wheel, thus allowing control at all times.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 3
+    },
+    {
+      "id": 199,
+      "question": "0199. When is it prohibited to stop or park a vehicle?\n",
+      "questionAnswers": [
+        "Besides blue-white painted curbstones?.\n",
+        "When the vehicle is parked in the left lane of a one-way urban road.\n",
+        "When the vehicle obstructs the traffic or blocks a road sign.\n",
+        "When the vehicle is not locked.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 2
+    },
+    {
+      "id": 1516,
+      "question": "1516. Where is the biggest “blind spot” in a commercial vehicle?\n",
+      "questionAnswers": [
+        "It depends on the size of the vehicle’s rear view mirror: The larger it is, the bigger is the dead spot in front.\n",
+        "On the vehicle’s left side.\n",
+        "At the vehicle’s rear.\n",
+        "On the vehicle’s front.\n"
+      ],
+      "categories": [
+        "C1",
+        "C"
+      ],
+      "correctAnswerId": 2,
+      "imageUrl": "549"
+    },
+    {
+      "id": 1618,
+      "question": "1618. What would be the result of sharply braking a motorcycle while turning?\n",
+      "questionAnswers": [
+        "The motorcycle will drive faster.\n",
+        "Sliding of the rear wheel.\n",
+        "The front wheel would be lifted in the air.\n",
+        "Sliding of the front wheel.\n"
+      ],
+      "categories": [
+        "A"
+      ],
+      "correctAnswerId": 1
+    },
+    {
+      "id": 0,
+      "question": "0562. What is the meaning of the following traffic sign?\n",
+      "questionAnswers": [
+        "Road for non-motor vehicles only.\n",
+        "Road for motor vehicles only.\n",
+        "Road for commercial vehicles only.\n",
+        "Road for public vehicles only.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 1,
+      "imageUrl": "img0562.jpg"
+    },
+    {
+      "id": 1164,
+      "question": "1164. Where is a proper place to install plates with the details of the taxi owner and of the driver?",
+      "questionAnswers": [
+        "On the frame-head between the doors, on the right side only.\n",
+        "On the inner part of the taxi’s left and right door frame-heads.\n",
+        "Both of them should be installed to the right of the dashboard, in front of the glove compartment.\n",
+        "From both sides of the dashboard.\n"
+      ],
+      "categories": [
+        "D"
+      ],
+      "correctAnswerId": 1
+    },
+    {
+      "id": 135,
+      "question": "0135. What should a driver of an overtaken vehicle do?\n",
+      "questionAnswers": [
+        "He should continue driving without changing his speed and driving lane.\n",
+        "An overtaken vehicle should take no interest in the overtaking vehicle, and should continue driving normally.\n",
+        "Deviate as much as possible to the road’s edge, without changing his speed.\n",
+        "Stop at the side of the road and allow the traffic to pass him.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 2
+    },
+    {
+      "id": 1582,
+      "question": "1582. What driving license class is required for driving a work vehicle that tows a trailer with an all up weight exceeding 4,000 kg?\n",
+      "questionAnswers": [
+        "B.\n",
+        "C+E.\n",
+        "A.\n",
+        "D.\n"
+      ],
+      "categories": [
+        "C"
+      ],
+      "correctAnswerId": 1,
+      "imageUrl": "549"
+    },
+    {
+      "id": 1116,
+      "question": "1116. The all up weight of a minibus shall not exceed:\n",
+      "questionAnswers": [
+        "5,000 kg.\n",
+        "3,500 kg.\n",
+        "6,000 kg.\n",
+        "4,000 kg.\n"
+      ],
+      "categories": [
+        "D"
+      ],
+      "correctAnswerId": 0
+    },
+    {
+      "id": 719,
+      "question": "0719. According to the law, how should you (vehicle no. 3) behave at the following intersection?\n",
+      "questionAnswers": [
+        "Give right of way to the blue vehicle (1).\n",
+        "Cross carefully. The two other drivers should yield (3).\n",
+        "Give right of way to both vehicles (1,2).\n",
+        "Give right of way to the yellow vehicle (2).\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 1,
+      "imageUrl": "img0719.jpg"
+    },
+    {
+      "id": 1783,
+      "question": "1783. When there is a “no left turn” sign in an intersection:\n",
+      "questionAnswers": [
+        "It is permitted to make a U-turn when there is an arrow pointing to the right only.\n",
+        "It is permitted to make a U-turn from any lane.\n",
+        "It is permitted to make a U-turn when no traffic disturbance is caused and when the U-turn is not prohibited by any traffic sign or marking.\n",
+        "It is permitted to make a U-turn for private vehicles only.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 2
+    },
+    {
+      "id": 865,
+      "question": "0865. What is the correct way to check the road when starting to drive and merging with traffic?\n",
+      "questionAnswers": [
+        "Glance in the mirrors and turn our head in the direction to which we intend to drive.\n",
+        "Look as far as possible ahead.\n",
+        "Glance at the rear view mirror and make sure that there are no vehicles behind us.\n",
+        "Plan our merging with vehicle traffic near us.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 0
+    },
+    {
+      "id": 1410,
+      "question": "1410. Is it obligatory to mark oversize freight on a moving vehicle at all times?\n",
+      "questionAnswers": [
+        "Yes, but only during light time.\n",
+        "Yes, but it is only obligatory to mark a vehicle with an oversize weight on its front side.\n",
+        "No, It is obligatory to mark oversize freight from the front and from the rear of the vehicle, but only if the freight exceeds the vehicle by 150 cm.\n",
+        "Yes, it is always obligatory to mark oversize freight.\n"
+      ],
+      "categories": [
+        "C1",
+        "C"
+      ],
+      "correctAnswerId": 3
+    },
+    {
+      "id": 219,
+      "question": "0219. How will you stand a vehicle on a downhill road?\n",
+      "questionAnswers": [
+        "Engage the parking brake, turn the front wheels towards the road’s edge and shift into reverse gear (manual car only).\n",
+        "Turn the front wheels towards the road’s edge and shift into forward gear (In an automatic car – P).\n",
+        "Engage the handbrake and turn the front wheels towards the center of the road.\n",
+        "Turn on the parking lights, turn the front wheels towards the road’s edge and shift into reverse gear.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 0
+    },
+    {
+      "id": 692,
+      "question": "0692. You step on the brake pedal and feel that the service brake (foot brake) is not working. What will you do?",
+      "questionAnswers": [
+        "Try to brake using the hand break.\n",
+        "Turn the stirring wheel quickly to the right to break by changing the direction of the wheels.\n",
+        "Use the horn and turn-on the lights to warn the driver in front of me.\n",
+        "Try to break by stepping on the clutch pedal.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 0
+    },
+    {
+      "id": 0,
+      "question": "0342. Who is legally responsible for the registration of a change of ownership?",
+      "questionAnswers": [
+        "The seller only.\n",
+        "The registered vehicle owner and the buyer of the vehicle.\n",
+        "The buyer of the vehicle only.\n",
+        "The owner of the vehicle testing facility.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 1
+    },
+    {
+      "id": 1278,
+      "question": "1278. What sign warns drivers about an approaching tunnel?",
+      "questionAnswers": [
+        "633\n",
+        "127פ",
+        "138",
+        "634"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 2,
+      "imageUrl": "img1278.jpg"
+    },
+    {
       "id": 0,
       "question": "TEST",
       "questionAnswers": [
@@ -1251,6 +1748,954 @@
       ],
       "correctAnswerId": 9,
       "imageUrl": "549"
+    },
+    {
+      "id": 1457,
+      "question": "1457. What is a commercial vehicle in accordance with the Carrier Services Law?\n",
+      "questionAnswers": [
+        "Any commercial vehicle used for paid transportation only.\n",
+        "Vehicles used for passenger transportation only.\n",
+        "A vehicle with an all up weight of 10,000 kg or more and a vehicle transporting hazardous materials of any weight.\n",
+        "A commercial vehicle, as per its lawful definition, that was given a permit to carry goods and transport passengers.\n"
+      ],
+      "categories": [
+        "C1",
+        "C"
+      ],
+      "correctAnswerId": 3
+    },
+    {
+      "id": 1588,
+      "question": "1588. What is the risk of driving a motorcycle while its kick-stand is down?\n",
+      "questionAnswers": [
+        "Damage would be caused to the roadway and other infrastructures.\n",
+        "The motorcycle would be unbalanced.\n",
+        "The kick-stand will hit the roadway and might cause the motorcycle to roll-over.\n",
+        "The kick-stand would wear out and cause the motorcycle to fall.\n"
+      ],
+      "categories": [
+        "A"
+      ],
+      "correctAnswerId": 2
+    },
+    {
+      "id": 256,
+      "question": "0256. When is a driver of a motor vehicle required to dip the vehicle’s lights?\n",
+      "questionAnswers": [
+        "When driving backwards.\n",
+        "When entering a premises.\n",
+        "While searching for a parking spot.\n",
+        "When the vehicle is standing.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 3
+    },
+    {
+      "id": 981,
+      "question": "0981. In your opinion, is the truck positioned correctly within the curve?\n",
+      "questionAnswers": [
+        "When driving on a sharp curve, it is required to stay in it as shortly as possible; hence his position is correct.\n",
+        "In sharp curves it is necessary to “cut” through the curve, in order to reduce the centrifugal force (the force that acts on the vehicle while it turns).\n",
+        "When there is no other vehicle in the curve it is possible to be positioned anywhere within it.\n",
+        "No, the truck driver is not keeping to the right of the road and his position presents a risk to any vehicle coming from the opposite direction.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 3,
+      "imageUrl": "img0981.jpg"
+    },
+    {
+      "id": 1100,
+      "question": "1100. What is the most important safety rule while operating a PTO power transfer?\n",
+      "questionAnswers": [
+        "The power transfer should only be operated when the engine is already hot.\n",
+        "The power transfer should not be operated while driving, but only when the tractor is standing.\n",
+        "The power transfer should not be operated without the supervision of an additional operator on the ground.\n",
+        "Stay away from the moving parts of the tractor and of the attachment.\n"
+      ],
+      "categories": [
+        "_1"
+      ],
+      "correctAnswerId": 3
+    },
+    {
+      "id": 0,
+      "question": "1156. A passenger bus is required, among other things, to have:\n",
+      "questionAnswers": [
+        "A wheel pump.\n",
+        "Approved waste basket next to every door.\n",
+        "A drinking dispenser with plastic glasses.\n",
+        "A jack stand.\n"
+      ],
+      "categories": [
+        "D"
+      ],
+      "correctAnswerId": 1
+    },
+    {
+      "id": 208,
+      "question": "0208. Within which distance before and after a railway crossing is it allowed to stand or park a vehicle?\n",
+      "questionAnswers": [
+        "At least six meters from the crossing.\n",
+        "At least twenty meters from the crossing.\n",
+        "At least four meters from the crossing.\n",
+        "At least twelve meters from the crossing.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 1
+    },
+    {
+      "id": 173,
+      "question": "0173. How should you conduct yourself at an exit from a premises or from an access road to a house, when you are about to cross the sidewalk (pavement)?\n",
+      "questionAnswers": [
+        "Stop always and give right-of-way to the vehicles that are come from the left and approaching the exit.\n",
+        "Slow down and even stop if required, in order to allow pedestrians to cross safely.\n",
+        "Stop always and give right-of-way to the pedestrians that are crossing the road.\n",
+        "The rule “first to come, first to go” applies to an exit from a premises or from an access road to a house. The pedestrians will wait.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 1
+    },
+    {
+      "id": 1113,
+      "question": "1113. Define “Autobus”:\n",
+      "questionAnswers": [
+        "A motor vehicle designed to transport at least 8 persons besides the driver and is indicated as an Autobus on its registration documents.\n",
+        "A commercial motor vehicle designed to transport at least 8 persons and is indicated as a bus in its registration documents.\n",
+        "A commercial vehicle designed to transport passengers for hire.\n",
+        "A motor vehicle designed to transport more than 15 persons and is indicated as a bus in its registration documents.\n"
+      ],
+      "categories": [
+        "D"
+      ],
+      "correctAnswerId": 0
+    },
+    {
+      "id": 1698,
+      "question": "1698. During “light time”, when are you permitted to use the vehicle’s high beam?",
+      "questionAnswers": [
+        "Only on a freeway.\n",
+        "On a non-urban road, when driving within a row of vehicles.\n",
+        "On an urban road with street lights and on a non-urban road.\n",
+        "On an inter-urban roadway, when allowed by traffic conditions and there is no vehicle ahead of you.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 3
+    },
+    {
+      "id": 658,
+      "question": "0658. What is the meaning of alternating red-white colored curbstones?\n",
+      "questionAnswers": [
+        "It is permitted to stop but prohibited to park along the red-white marked area.\n",
+        "The marking is intended to emphasize separation areas, sidewalks and traffic islands, and it has no restrictive meaning.\n",
+        "Arranged parking space by means of parking tickets.\n",
+        "No stopping besides the curbstones, except for public transport that load or unload passengers.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 3,
+      "imageUrl": "img0658.jpg"
+    },
+    {
+      "id": 1095,
+      "question": "1095. Is it possible to brake only one wheel in a tractor?\n",
+      "questionAnswers": [
+        "Yes, on both axles.\n",
+        "Only on the rear axle.\n",
+        "Not on any axle.\n",
+        "Only on the front axle.\n"
+      ],
+      "categories": [
+        "_1"
+      ],
+      "correctAnswerId": 1
+    },
+    {
+      "id": 187,
+      "question": "0187. Under which conditions is it permitted to cross railway tracks?\n",
+      "questionAnswers": [
+        "You are only permitted to cross after giving right-of-way to the vehicles that drive away from the crossing, and without causing any disturbance to them.\n",
+        "When a “stop” sign or a “red” traffic light are placed in your direction of driving.\n",
+        "When the barrier starts to lift..\n",
+        "When the railway-crossing is free, with its barrier lifted, and you can be cross it safely.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 3
+    },
+    {
+      "id": 1751,
+      "question": "1751. How are you required to conduct yourself when a traffic light displays a green light but the intersection is blocked by vehicles?",
+      "questionAnswers": [
+        "It is prohibited to enter an intersection when the exit is blocked.\n",
+        "Cross the intersection as quickly as possible.\n",
+        "Follow the green light and enter the intersection.\n",
+        "Enter the intersection anyway.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 0
+    },
+    {
+      "id": 1355,
+      "question": "1355. What is the fifth wheel on a Semi-trailer?\n",
+      "questionAnswers": [
+        "It is a popular expression meaning the steering wheel.\n",
+        "A fixture, shaped like a wheel, designed to lift the driver’s compartment during engine treatment.\n",
+        "A fixture (plate) that is designed to connect between the cab and the trailer.\n",
+        "It is a spare wheel to replace flat (punctured) tires.\n"
+      ],
+      "categories": [
+        "C"
+      ],
+      "correctAnswerId": 2,
+      "imageUrl": "img"
+    },
+    {
+      "id": 1648,
+      "question": "1648. Where on the motorcycle is it recommended to place luggage, so that its impact on the motorcycle’s stability is minimal?\n",
+      "questionAnswers": [
+        "Close to the rear end of the motorcycle and as high as possible.\n",
+        "Close to the front end of the motorcycle and as high as possible.\n",
+        "Close to the center of the motorcycle and as low as possible, so that the luggage doesn’t stick out from the front or rear.\n",
+        "Close to the rear end of the motorcycle and as low as possible, so that the luggage doesn’t stick out from the rear.\n"
+      ],
+      "categories": [
+        "A"
+      ],
+      "correctAnswerId": 2
+    },
+    {
+      "id": 1338,
+      "question": "1338. The “Overall height” of a vehicle is measured:\n",
+      "questionAnswers": [
+        "From the floor of the box until the highest point of the truck.\n",
+        "From the road’s surface until the vehicle’s highest point (including all its fixtures, and when it is loaded)..\n",
+        "From the road’s surface until the vehicle’s highest point (including all its fixtures, and when it is not loaded).\n",
+        "From the road’s surface until the roof of the driver's compartment.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "_1"
+      ],
+      "correctAnswerId": 2
+    },
+    {
+      "id": 277,
+      "question": "0277. How should those involved in a road accident, which resulted in property damage only, conduct themselves?\n",
+      "questionAnswers": [
+        "Exchange identifying details and wait for the rescue forces without moving any of the involved vehicles.\n",
+        "Clear their vehicles away from the roadway, without delay, and exchange identifying details.\n",
+        "Report to the police and wait for its instructions.\n",
+        "Call the rescue forces and wait at the place of the accident without moving any of the involved vehicles.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 1
+    },
+    {
+      "id": 1235,
+      "question": "1235. Is a bus driver permitted to drive with one of its doors open?\n",
+      "questionAnswers": [
+        "It is only permitted when the air-conditioning system malfunctions.\n",
+        "It is only permitted when there are no passengers on the bus.\n",
+        "It is only permitted when approaching a level crossing.\n",
+        "Driving with an open door is forbidden.\n"
+      ],
+      "categories": [
+        "D"
+      ],
+      "correctAnswerId": 3
+    },
+    {
+      "id": 1264,
+      "question": "1264. Is a taxi permitted to park within the limits of the following road sign?",
+      "questionAnswers": [
+        "Yes",
+        "Yes, but only on weekdays from 21:00 until 05:30.\n",
+        "No",
+        "Yes, but only on weekends.\n"
+      ],
+      "categories": [
+        "D"
+      ],
+      "correctAnswerId": 2,
+      "imageUrl": "img1264.jpg"
+    },
+    {
+      "id": 1673,
+      "question": "1673. What should you carefully check while purchasing a used tire for your vehicle?",
+      "questionAnswers": [
+        "Only that the size of the new tire is identical to that of the old tire.\n",
+        "Only that the shape of the tire’s sole (the tire’s surface) is identical to that of the old tire.\n",
+        "Only that the air pressure of the new tire is identical to that of the old tire.\n",
+        "The tire’s manufacture date, to ensure it is not too old (over 2 years).\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 3
+    },
+    {
+      "id": 682,
+      "question": "0682. What is the meaning of the black-white marking besides the road?\n",
+      "questionAnswers": [
+        "The marking emphasizes the presence of sidewalks and traffic islands next to the road.\n",
+        "Stopping and parking place before a level crossing.\n",
+        "Stopping and parking is absolutely prohibited.\n",
+        "Parking space regulated by the local authority.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 0,
+      "imageUrl": "img0682.jpg"
+    },
+    {
+      "id": 543,
+      "question": "0543. Is it permitted to make a right U-turn where the following road sign is placed?",
+      "questionAnswers": [
+        "No",
+        "Yes, when no other sign is placed to prohibit it.\n",
+        "It is permitted, even when a “no U-turn” sign is placed.\n",
+        "Yes, in daylight only.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 1,
+      "imageUrl": "img0543.jpg"
+    },
+    {
+      "id": 1748,
+      "question": "1748. It is prohibited to park a vehicle less than a distance of:\n",
+      "questionAnswers": [
+        "15 meters after a stop sign.\n",
+        "15 meters after the intersection.\n",
+        "12 meters before a pedestrian crossing.\n",
+        "30 meters after a level crossing.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 2
+    },
+    {
+      "id": 1325,
+      "question": "1325. Which of the following vehicles must carry a fire extinguisher?\n",
+      "questionAnswers": [
+        "All motor vehicles, except for private passenger cars, tractors, motorcycles and motorcycle and side-car\n",
+        "All commercial vehicles, public buses and tractors.\n",
+        "All motor vehicles with more than two wheels.\n",
+        "Trucks and public buses only.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "B"
+      ],
+      "correctAnswerId": 0,
+      "imageUrl": "img"
+    },
+    {
+      "id": 169,
+      "question": "0169. What should we do when driving behind a vehicle that is giving a direction indicator signal?",
+      "questionAnswers": [
+        "Stay close to the right of the road.\n",
+        "Continue driving without slowing down. It has nothing to do with you.\n",
+        "Continue driving at an accelerated speed, to minimize the conflict period.\n",
+        "We should allow the driver of the vehicle in front to perform the action he signaled for, by slowing down and stop if required.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 3
+    },
+    {
+      "id": 1550,
+      "question": "1550. What is a driver required to do when he feels tired during night-driving?\n",
+      "questionAnswers": [
+        "Search for a safe place to rest and take a light nap where he doesn’t disturb traffic.\n",
+        "Listen to the radio, but avoid relaxing music.\n",
+        "Open the window next to him, to allow air flow in.\n",
+        "Eat a heavy meal and avoid drinking.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "B"
+      ],
+      "correctAnswerId": 0
+    },
+    {
+      "id": 1608,
+      "question": "1608. How will a dirty front lamp influence night driving?\n",
+      "questionAnswers": [
+        "It will affect the field of vision.\n",
+        "The field of vision will grow.\n",
+        "It will cause a dazzeling (blinding).\n",
+        "Dirt will have no affect on the rider ability to recognize problems.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 0
+    },
+    {
+      "id": 758,
+      "question": "0758. What is a lane?\n",
+      "questionAnswers": [
+        "A roadway designated for motor-vehicle traffic only.\n",
+        "Part of a road’s width, designed to accommodate one line of vehicles, not including two-wheelers.\n",
+        "Any marking of two parallel lines on the roadway.\n",
+        "A passage in a private road in which vehicle traffic is prohibited.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 1
+    },
+    {
+      "id": 152,
+      "question": "0152. What is the maximum permitted speed for driving a private passenger vehicle (if not indicated otherwise by a traffic sign)?",
+      "questionAnswers": [
+        "In an urban road – up to 50 KPH and in a freeway – up to 70 KPH\n",
+        "In an urban area – up to 50 KPH and on an inter-urban road – up to 80 KPH\n",
+        "In an urban road – according to road conditions, and in a freeway – up to 100 KPH\n",
+        "In an urban road – up to 40 KPH and in a freeway – up to 80 KPH\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 1
+    },
+    {
+      "id": 78,
+      "question": "0078. How should one drive while inside a “play street”?\n",
+      "questionAnswers": [
+        "The driver should avoid entering a play street while children are playing\n",
+        "Always in low gear and never driving in reverse.\n",
+        "The driver should honk and alert pedestrians that a vehicle has entered the street\n",
+        "The driver should allow pedestrians and children to carry on with their activities without endangering them\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 3
+    },
+    {
+      "id": 1740,
+      "question": "1740. Is it permitted to push a vehicle, while its engine is shut-off, into a roadway to which vehicle entry is prohibited?\n",
+      "questionAnswers": [
+        "Yes, when the engine works on neutral gear.\n",
+        "Yes, but it should be lifted to the sidewalk.\n",
+        "No. pushing It is the same as driving.\n",
+        "Yes, when the engine is not working.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "B"
+      ],
+      "correctAnswerId": 2,
+      "imageUrl": "img"
+    },
+    {
+      "id": 999,
+      "question": "0999. What are you required to do if you detect a malfunction in the braking system while driving?\n",
+      "questionAnswers": [
+        "Slow down and try to accustom yourself to the situation and complete your drive safely.\n",
+        "Slow down and rely on the ABS System.\n",
+        "Continue driving very carefully and use the parking brake.\n",
+        "Stop driving immediately and ensure that the vehicle is towed to a garage and checked there.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 3
+    },
+    {
+      "id": 225,
+      "question": "0225. Is it permitted to drive a vehicle while one of the doors is open?\n",
+      "questionAnswers": [
+        "No, unless the air-conditioning is out of order.\n",
+        "Yes, when there are no passengers in the vehicle.\n",
+        "Yes, when carrying oversized cargo.\n",
+        "It is absolutely forbidden.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "B"
+      ],
+      "correctAnswerId": 3,
+      "imageUrl": "img"
+    },
+    {
+      "id": 158,
+      "question": "0158. When you approach a railway crossing and an approaching train is seen, heard or sounds a warning signal:\ncategory",
+      "questionAnswers": [
+        "You should stop before the railway crossing until the train passes.\n",
+        "If the train is far, you should quickly cross the rails.\n",
+        "You should accelerate and cross the rails before the train arrives, in a careful and watchful manner.\n",
+        "You should carefully cross the rails, in any fitting speed.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 0
+    },
+    {
+      "id": 1439,
+      "question": "1439. A traffic sign forbidding vehicles to drive faster than 70 k.p.h is placed on an urban road. Which of the following vehicles is forbidden to drive according to the sign’s speed indication?",
+      "questionAnswers": [
+        "Commercial vehicles and work vehicles with an all up weight that doesn’t exceed 10,000 kg. Their speed limit is 50 k.p.h.\n",
+        "Commercial vehicles that are used for carrying goods and that are not equipped with safety belts. Their speed limit is 50 k.p.h.\n",
+        "Vehicles that were manufactured before 1969 and that are not equipped with safety belts. Their speed limit is 50 k.p.h.\n",
+        "Commercial vehicles or work vehicles with an all up weight of 12,000 kg. Their speed limit is 50 k.p.h.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 3
+    },
+    {
+      "id": 390,
+      "question": "0390. When traffic sign 308 is placed at an entry to a section,of the road which traffic sign should be placed in the opposite side of that section?\n",
+      "questionAnswers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 2,
+      "imageUrl": "img0390.jpg"
+    },
+    {
+      "id": 1710,
+      "question": "1710. Is it permitted to drive with a tractor on the sidewalk in order to pass a road obstruction?",
+      "questionAnswers": [
+        "Yes, it is permitted to drive on the sidewalk very carefully and in first gear.\n",
+        "Yes, it is permitted to drive on the sidewalk if the roadway is in a bad condition.\n",
+        "No, it is prohibited to drive on the sidewalk in order to pass an obstruction.\n",
+        "Yes, it is permitted to bypass the obstacle through the sidewalk.\n"
+      ],
+      "categories": [
+        "_1"
+      ],
+      "correctAnswerId": 2
+    },
+    {
+      "id": 149,
+      "question": "0149. When is it lawfully required to perform a vehicle license test?\n",
+      "questionAnswers": [
+        "Every two years, for all vehicle types.\n",
+        "Every two years for commercial vehicles and every year for motorcycles.\n",
+        "Every two years for all types of private passenger vehicles, without any restriction on the vehicle’s age.\n",
+        "Every year or any other lawfully defined period.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 3
+    },
+    {
+      "id": 54,
+      "question": "0054. Where should a “new driver” sign be placed?\n",
+      "questionAnswers": [
+        "At the center of the vehicle rear window’s top edge, visible to other drivers from all sides\n",
+        "On the top edge of the vehicle’s left side window, visible to those driving on the left of the vehicle\n",
+        "On the bottom edge of the vehicle’s rear window, visible to those driving behind\n",
+        "On the bottom edge of the vehicle’s right side window, visible to those driving on the right of the vehicle\n"
+      ],
+      "categories": [
+        "C1",
+        "B"
+      ],
+      "correctAnswerId": 2,
+      "imageUrl": "img"
+    },
+    {
+      "id": 0,
+      "question": "0433. What are you required to do according to the following road sign?\n",
+      "questionAnswers": [
+        "Drive faster when yellow light is displayed by the sign.\n",
+        "Always stop before the intersection with traffic lights.\n",
+        "Continue driving carefully and obey the traffic light.\n",
+        "Ignore this sign, as it obligates public vehicle drivers only.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 2,
+      "imageUrl": "img0433.jpg"
+    },
+
+    {
+      "id": 645,
+      "question": "0645. How should you continue driving according to the following marking?",
+      "questionAnswers": [
+        "You are permitted to drive straight (ahead) or left.\n",
+        "You are permitted to drive left only.\n",
+        "You are permitted to turn left from all lanes.\n",
+        "You are permitted to drive right only.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 0,
+      "imageUrl": "img0645.jpg"
+    },{
+      "id": 1772,
+      "question": "1772. Can lawful roadway marking be considered as a road sign?",
+      "questionAnswers": [
+        "Always.\n",
+        "Only if it is accompanied by another sign.\n",
+        "Only within the limits of an urban road.\n",
+        "Only if it is colored white.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 0
+    },{
+      "id": 734,
+      "question": "0734. Where in the vehicle should the fluorescent vest be kept (except for motor-cycles)?",
+      "questionAnswers": [
+        "In the driver compartment.\n",
+        "Next to the spare (reserve) wheel.\n",
+        "In the vehicle’s trunk.\n",
+        "In the vehicle’s engine.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 0,
+      "imageUrl": "img"
+    },
+    {
+      "id": 958,
+      "question": "0958. What limitations occur on the road ahead of you?\n",
+      "questionAnswers": [
+        "Driving is on an urban road.\n",
+        "(1) Road works ahead (2) a speed limit and (3) no overtaking.\n",
+        "Limited field of vision.\n",
+        "Congested traffic on the roadway.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 1,
+      "imageUrl": "img0958.jpg"
+    },{
+      "id": 0,
+      "question": "0326. Who is responsible for the stability and weight distribution of the cargo that is carried on a vehicle?\n",
+      "questionAnswers": [
+        "The vehicle’s owner only.\n",
+        "The driver and the vehicle’s owner.\n",
+        "The driver and the forklift operator.\n",
+        "The forklift operator only.\n"
+      ],
+      "categories": [
+        "C1",
+        "C"
+      ],
+      "correctAnswerId": 1
+    },
+    {
+      "id": 337,
+      "question": "0337. What should a driver do when there’s a change in his health condition?\n",
+      "questionAnswers": [
+        "Report it to the Licensing Authority.\n",
+        "Report it to the Licensing Office if it is a result of a road accident only.\n",
+        "Report it immediately to the Ministry of Health.\n",
+        "Report about it to the Licensing Office within 20 days.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 0
+    },
+    {
+      "id": 1690,
+      "question": "1690. What should a driver check after driving through deep water on the road?",
+      "questionAnswers": [
+        "If the brakes work efficiently.\n",
+        "If the lights work.\n",
+        "If the engine works.\n",
+        "No need of any of the checks.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "B"
+      ],
+      "correctAnswerId": 0
+    },
+    {
+      "id": 924,
+      "question": "0924. How are you required to conduct yourself according to the occurrence that is depicted in the following picture?\n",
+      "questionAnswers": [
+        "Stop 12 meters before the pedestrian crossing and allow the pedestrian to finish crossing safely.\n",
+        "The pedestrian noticed you and therefore he should stop and allow you to cross the intersection safely.\n",
+        "The pedestrian doesn’t notice you. Honk gently to signal him that you wish to continue driving.\n",
+        "Slow down and even stop if needed, and allow the pedestrian to finish crossing safely.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 3,
+      "imageUrl": "img0924.jpg"
+    },
+    {
+      "id": 243,
+      "question": "0243. How many vehicles are allowed to be towed simultaneously by a motor vehicle?",
+      "questionAnswers": [
+        "One, unless otherwise approved by the Licensing Authority.\n",
+        "Two, provided that their overall length does not exceed fifteen meters.\n",
+        "Two, unless otherwise approved by the Licensing Authority.\n",
+        "Only one and there is no possibility to approve more than one.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "_1"
+      ],
+      "correctAnswerId": 0
+    },
+    {
+      "id": 1453,
+      "question": "1453. A taxi driver that is obliged to wear eyeglasses or any other optical instrument:",
+      "questionAnswers": [
+        "Must hold an extra pair of eyeglasses or contact lenses at the taxi station.\n",
+        "Must ensure that he carries on him a pair of eyeglasses or contact lenses while driving during the night.\n",
+        "Must ensure that he carries on him a pair of eyeglasses or contact lenses while driving during the day.\n",
+        "Must carry with him an extra pair of eyeglasses or contact lenses while driving.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 3
+    },
+    {
+      "id": 611,
+      "question": "0611. Driving on a wet road creates:\n",
+      "questionAnswers": [
+        "A danger of skidding and turning-over, as speed increases\n",
+        "A danger of sliding and rolling-over, which can be prevented by driving faster.\n",
+        "A longer response distance.\n",
+        "Vehicle roll-over due to slow speed.\n"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 0,
+      "imageUrl": "img"
+    },
+    {
+      "id": 0,
+      "question": "TEST",
+      "questionAnswers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "categories": [
+        "C1",
+        "C",
+        "D",
+        "A",
+        "_1",
+        "B"
+      ],
+      "correctAnswerId": 9,
+      "imageUrl": "img"
     }
   ]
 }
